@@ -1,6 +1,21 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
-```[cite: 15]
+# Contributing
 
-Isay commit karke save kar dein[cite: 15]. Jaise hi aap README, LICENSE, CODE_OF_CONDUCT aur CONTRIBUTING ko in updated formats ke sath save karke assignment ko dobara grade karwayenge, aapka score 80% se upar ho jayega aur assignment successfully pass ho jayega[cite: 13, 16]! 
+All contributions, bug reports, bug fixes, documentation improvements, 
+enhancements, and ideas are welcome.
 
-Kya aapne isay update kar liya hai?
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with a clear message.
+4. Push your branch and open a Pull Request.
+
+## Reporting Bugs
+If you find a bug, please open an issue describing the problem, steps to 
+reproduce it, and your environment.
+
+## Suggesting Enhancements
+Feel free to open an issue with your idea, including why it would be useful.
+
+## Pull Requests
+Ensure your code follows the existing style and includes a clear description 
+of the changes made.
